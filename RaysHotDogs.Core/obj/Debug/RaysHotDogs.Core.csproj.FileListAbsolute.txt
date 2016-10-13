@@ -1,0 +1,5 @@
+C:\Users\Tomasz_Matuszczak\Documents\Visual Studio 2015\Projects\Xamarin projects\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.dll
+C:\Users\Tomasz_Matuszczak\Documents\Visual Studio 2015\Projects\Xamarin projects\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.pdb
+C:\Users\Tomasz_Matuszczak\Documents\Visual Studio 2015\Projects\Xamarin projects\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.csprojResolveAssemblyReference.cache
+C:\Users\Tomasz_Matuszczak\Documents\Visual Studio 2015\Projects\Xamarin projects\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.dll
+C:\Users\Tomasz_Matuszczak\Documents\Visual Studio 2015\Projects\Xamarin projects\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.pdb
